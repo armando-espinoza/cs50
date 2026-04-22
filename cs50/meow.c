@@ -5,7 +5,7 @@ int get_n(void)
     int n;
     do
     {
-        printf( "Enter a value\n" );
+        printf( "Enter a value: \n" );
         scanf( " %d", &n );
     }
     while( n < 0);
