@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+void main(void)
 {
 
     int quarter = 25;
@@ -31,5 +31,4 @@ int main(void)
 
     printf(" %i\n", coins);
 
-    return 0;
 }
